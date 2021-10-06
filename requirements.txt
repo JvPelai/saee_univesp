@@ -1,0 +1,11 @@
+asgiref==3.4.1
+autopep8==1.5.7
+Django==3.2.7
+protobuf==3.17.3
+pycairo==1.20.1
+pycodestyle==2.7.0
+PyGObject==3.42.0
+pytz==2021.1
+six==1.16.0
+sqlparse==0.4.2
+toml==0.10.2
